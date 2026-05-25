@@ -1,10 +1,10 @@
 // Daftar produk dengan gambar
 const products= [
-    { id: 1, name: 'BENG-BENG', price: 2000, img: 'beng beng.jpg' },
-    { id: 2, name: 'DILAN', price: 1000, img: 'dilan.jpg' },
-    { id: 3, name: 'GARUDA', price: 2000, img: 'garuda.jpg' },
-    { id: 4, name: 'POP', price: 2000, img: 'pop.jpge' },
-    { id: 5, name: 'SUSU', price: 2000, img: 'susu.jpg' },
+    { id: 1, name: 'CHOPIE', price: 2000, img: 'chopie.jpg' },
+    { id: 2, name: 'COCA-COLA', price: 1000, img: 'coca-cola.jpg' },
+    { id: 3, name: 'NABATI', price: 2000, img: 'nabati.jpg' },
+    { id: 4, name: 'OREO MINI', price: 2000, img: 'oreo mini.jpg' },
+    { id: 5, name: 'TICTAC', price: 2000, img: 'tictac.jpg' },
     { id: 6, name: 'TEH PUCUK', price: 2000, img: 'teh pucuk.jpg' },
 
 
