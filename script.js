@@ -1,7 +1,7 @@
 // Daftar produk dengan gambar
 const products= [
     { id: 1, name: 'CHOPIE', price: 2000, img: 'chopie.jpg' },
-    { id: 2, name: 'COCA-COLA', price: 1000, img: 'coca-cola.jpg' },
+    { id: 2, name: 'COCA-COLA', price: 1000, img: 'cocacola.jpg' },
     { id: 3, name: 'NABATI', price: 2000, img: 'nabati.jpg' },
     { id: 4, name: 'OREO MINI', price: 2000, img: 'oreo mini.jpg' },
     { id: 5, name: 'TICTAC', price: 2000, img: 'tictac.jpg' },
